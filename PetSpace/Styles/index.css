@@ -1,0 +1,134 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 28, 2023, 12:03:23 AM
+    Author     : Yashaswini
+*/
+body {
+    overflow-y: scroll;
+    
+
+}
+.dog{
+    display:block;
+    float: right;
+    width:40%;
+    height:370px;
+    margin-bottom:40px;
+}
+.left_column{
+    width:60%;
+    height:80%;
+    display: block;
+    background-color: rgba(255,0,0,0.5);
+    float:left;
+    margin-bottom:40px;
+}
+div h1{
+    color:black;
+    Opacity:1;
+    font-family: cursive;
+    font-size: 45px;
+}
+div p{
+    color: black;
+    Opacity:1;
+    font-family: cursive;
+    font-size:20px;
+}
+div h2{
+    clear:both;
+    margin-bottom:40px;
+    font-size: 35px;
+    font-family: cursive;
+}
+
+.services{
+    clear:both;
+    text-align:center;
+}
+
+.services form button[name="Day Care"]{
+    font-size:25px;
+    font-family:cursive;
+    padding: 5%;
+    background-color:rgba(255,0,0,0.5);
+    border-radius: 50%;
+}
+.services form button[name="Pet Grooming"]{
+    font-size:25px;
+    font-family:cursive;
+    padding: 5%;
+    background-color:rgba(255,0,0,0.5);
+    border-radius: 50%;
+}
+.services form button[name="Pool Sessions"]{
+    font-size:25px;
+    font-family:cursive;
+    padding: 5%;
+    background-color:rgba(255,0,0,0.5);
+    border-radius: 50%;
+}
+.services form button[name="Pet Day Out"]{
+    font-size:25px;
+    font-family:cursive;
+    padding: 5%;
+    background-color:rgba(255,0,0,0.5);
+    border-radius: 50%;
+}
+.avail {
+    clear: both;
+    text-align:center;
+}
+
+.avail form input{
+    padding:2%;
+    width:250px;
+    border-radius: 25px;
+    background-color:rgba(255,0,0,0.5);
+    font-family:cursive;
+    font-size:30px;
+
+}
+h3{
+    text-align:center;
+    font-family:cursive;
+    font-size:25px;
+    color: black;
+}
+.avail form label{
+    font-family:cursive;
+    font-size:25px;
+}
+.image {
+    width:600px;
+    hight:400px;
+    padding:20px;
+    background-image: url('Images/paw.jpg');
+    background-size: cover;
+
+}
+.contact-details{
+    clear: both;
+    text-align:center;
+    background-color:rgba(255,0,0,0.5);
+}
+.contact-details h4{
+    font-family: cursive;
+    font-size: 20px;
+    border-radius:15%;
+
+
+}
+.contact-details p{
+    font-family: cursive;
+    font-size: 20px;
+
+}
+
+
+
+
+

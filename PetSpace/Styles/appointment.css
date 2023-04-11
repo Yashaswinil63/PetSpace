@@ -1,0 +1,33 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 1, 2023, 1:03:40 PM
+    Author     : Yashaswini
+*/
+body {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+table {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align:center;
+
+}
+th, td {
+    text-align: center;
+    padding: 8px;
+    border: 1px solid black;
+    color: black;
+}
+th {
+    background-color: black;
+    color: white;
+}
+caption {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
